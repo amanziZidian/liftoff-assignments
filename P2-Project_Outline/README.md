@@ -7,12 +7,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A community based commerce web app where users can trade items and services for other items and services rather than money
+
 ### Features
-Include Features here
+
+User can make an account and log in
+Users can submit a request for an item or service
+Users can offer to meet request using skills or resources
+Users can deny or accept offers
+Users can search for requests or skills/resources
+
 ### Technologies
-Include Technologies here
+Java
+Spring
+MySQL
+Thymeleaf
+HTML
+CSS
+
 ### What I'll Have to Learn
 Include what you will need to learn here
+
+Practice using MVC
+Practice with authentication
+
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/PJy7fw77/my-launchcode-stl-adventure
