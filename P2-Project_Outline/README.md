@@ -12,9 +12,13 @@ A community based commerce web app where users can trade items and services for 
 ### Features
 
 User can make an account and log in
+
 Users can submit a request for an item or service
+
 Users can offer to meet request using skills or resources
+
 Users can deny or accept offers
+
 Users can search for requests or skills/resources
 
 ### Technologies
